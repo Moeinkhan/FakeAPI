@@ -1,13 +1,13 @@
 {
   "pills": [
     {
-      "id": 1,
+      "id": 0,
       "name": "آسپرین",
       "count": 10,
       "interval": { "value": 8, "unit": "hour" }
     },
     {
-      "id": 2,
+      "id": 1,
       "name": "ویتامین D",
       "count": 20,
       "interval": { "value": 5, "unit": "minute" }
